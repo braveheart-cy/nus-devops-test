@@ -1,2 +1,7 @@
 # nus-devops-test
-This is a test to learn the DevOps
+
+##Smaller text
+
+Here is the smaller text
+* This is something 
+* This is another thing
