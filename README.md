@@ -1,6 +1,6 @@
 # nus-devops-test
 
-##Smaller text
+## Smaller text
 
 Here is the smaller text
 * This is something 
